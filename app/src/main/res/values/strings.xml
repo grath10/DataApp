@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">数据生成工具</string>
+    <string name="app_energy_alarm_name">公共能耗</string>
+    <string name="app_basement_alarm_name">地下室环境</string>
+    <string name="app_elevator_name">电梯</string>
+    <string name="app_face_name">人脸识别</string>
+    <string name="app_vehicle_name">车牌识别</string>
+    <string name="send_post_request">发送请求</string>
+    <string name="field_latitude">纬度</string>
+    <string name="field_longitude">经度</string>
+    <string name="field_location">发生地点</string>
+    <string name="field_happen_time">发生时间</string>
+    <string name="field_person_name">姓名</string>
+    <string name="field_plate">车牌号</string>
+    <string name="field_file_url">文件url</string>
+    <string name="field_home_address">家庭住址</string>
+    <string name="field_device_number">设备编码</string>
+    <string name="field_event_type">事件类型</string>
+    <string name="field_person_id">身份证号码</string>
+    <string name="field_elevator">电梯名称</string>
+    <string name="elevator_event_trap">电梯困人</string>
+    <string name="field_trigger_type">前端类型</string>
+    <string name="event_fire_alarm">火警</string>
+</resources>

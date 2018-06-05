@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="snap_devices">
+        <item>F1810001</item>
+        <item>F1810002</item>
+    </string-array>
+
+    <string-array name="persons">
+        <item>320283199001011512</item>
+        <item>320283199001031513</item>
+        <item>320283199004241524</item>
+    </string-array>
+
+    <string-array name="plates">
+        <item>苏E6SA65</item>
+        <item>苏B893RJ</item>
+        <item>苏ERL331</item>
+    </string-array>
+
+    <string-array name="elevators">
+        <item>鸿泰苑三区1单元</item>
+        <item>鸿泰苑三区21单元</item>
+        <item>鸿泰苑三区22单元</item>
+    </string-array>
+
+    <string-array name="fire_devices">
+        <item>鸿泰苑三区1单元地库</item>
+        <item>鸿泰苑三区21单元地库</item>
+        <item>鸿泰苑三区22单元地库</item>
+    </string-array>
+
+    <string-array name="fire_trigger_devices">
+        <item>烟感</item>
+        <item>手报</item>
+        <item>消报</item>
+    </string-array>
+</resources>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/handle_lyt"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/jump_energy_btn"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/login_btn_selector"
+            android:gravity="center_horizontal|center_vertical"
+            android:text="@string/app_energy_alarm_name"
+            android:textColor="#ffffff"
+            android:textSize="15dp"
+            android:onClick="onClick" />
+
+        <Button
+            android:id="@+id/jump_basement_btn"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/login_btn_selector"
+            android:gravity="center_horizontal|center_vertical"
+            android:text="@string/app_basement_alarm_name"
+            android:textColor="#ffffff"
+            android:textSize="15dp"
+            android:onClick="onClick" />
+
+        <Button
+            android:id="@+id/jump_elevator_btn"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/login_btn_selector"
+            android:gravity="center_horizontal|center_vertical"
+            android:text="@string/app_elevator_name"
+            android:textColor="#ffffff"
+            android:textSize="15dp"
+            android:onClick="onClick" />
+
+        <Button
+            android:id="@+id/jump_face_btn"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/login_btn_selector"
+            android:gravity="center_horizontal|center_vertical"
+            android:text="@string/app_face_name"
+            android:textColor="#ffffff"
+            android:textSize="15dp"
+            android:onClick="onClick" />
+
+        <Button
+            android:id="@+id/jump_vehicle_btn"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/login_btn_selector"
+            android:gravity="center_horizontal|center_vertical"
+            android:text="@string/app_vehicle_name"
+            android:textColor="#ffffff"
+            android:textSize="15dp"
+            android:onClick="onClick" />
+    </LinearLayout>
+</RelativeLayout>
